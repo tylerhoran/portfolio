@@ -6,9 +6,9 @@
 ## Web Development & Software Engineering: Javascript, Ruby, Python, R, HTML, SQL, Go, AWS, GCP, Azure, Distributed Systems.
 
 ## Education
-- Ph.D., Sociology | The New School for Social Research (_December 2018_)								       		
-- M.A., Sociology	| The New School for Social Research (_May 2009_)	 			        		
-- B.S., Communications | Boston University (_May 2006_)
+- Ph.D., Sociology, The New School for Social Research (_December 2018_)								       		
+- M.A., Sociology, The New School for Social Research (_May 2009_)	 			        		
+- B.S., Communications, Boston University (_May 2006_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
