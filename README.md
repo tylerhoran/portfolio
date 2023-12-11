@@ -11,21 +11,24 @@
 - B.S., Communications, Boston University (_May 2006_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Adjunct Professor of Comp Social Science @ University of Massachusetts, Amherst (_Sep 2023 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Senior Software Engineer & Data Scientist (_December 2021 - Present_)**
+- Developed and implemented strategies for product development and engineering team growth for 5 firms.
+- Managed development operations for 5 early to mid-stage companies executing large mission-critical projects and major decisions.
+- Managed vendor relationships and multi-stakeholder environments to discover opportunities through technical tradeoffs. 
+- Developed high-scale Rails, Django and ETL applications reaching hundreds of thousands of users. 
+- Developed machine learning applications, natural language processing tools, and large language model implementations to automate at scale.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Predicting Employee Use of Mental Health Services
+[Source Code](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This project focuses on analyzing a dataset from an online survey on mental health conducted in 2019 by Open Sourcing Mental Illness (OSMI). The objective is to explore the state of mental health in the tech industry and develop a machine learning model to predict mental health treatment seeking behavior among tech employees.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+The company stakeholder was interested in knowing if employees would use mental health services if offered. By using an existing dataset that surveyed the use of mental health services by technology employees, a model was developed that allowed a company to create a similar survey to understand the percentage of employees that woudl belikely to use mental health services if that benefit was offered to their employees. SVM, FastAPI, PyTest, GithubActions.
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -54,5 +57,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
