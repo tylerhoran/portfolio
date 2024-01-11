@@ -59,8 +59,6 @@ Eurolab–GESIS: Leibniz Institut für Sozialwissenschaftens, Köln, DE.
 - 2011 “Social Exchange of Cultural Capital: A Study of Knowledge Power on Twitter.” The Difference that
 Makes a Difference. The Open University. Milton Keynes, UK.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Recent Publications
 1. 2023 Horan, T. “Multifaceted disparities associated with translator earnings: A quantitative study of Upwork profiles” SocArXiv, doi:10.31235/osf.io/cg6fn.
 2. 2023 Horan, T. “Multidimensional Variation of Ethical Constructs in VKontakte’s Social Network Topologies” SocArXiv, doi:10.31235/osf.io/fzsqx.
