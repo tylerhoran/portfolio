@@ -12,8 +12,8 @@
 
 ## Work Experience
 **Adjunct Professor of Comp Social Science @ University of Massachusetts, Amherst (_Sep 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Lecurer of Data Science, Machine Learning and Statistical Modeling at a R1 University
+- Developed over $1 Million in Federal Grants
 
 **Senior Software Engineer & Data Scientist (_December 2021 - Present_)**
 - Developed and implemented strategies for product development and engineering team growth for 5 firms.
@@ -22,38 +22,50 @@
 - Developed high-scale Rails, Django and ETL applications reaching hundreds of thousands of users. 
 - Developed machine learning applications, natural language processing tools, and large language model implementations to automate at scale.
 
-## Projects
+**Senior Software Engineer @ Handshake (_January 2020 - December 2021_)**
+- Full-stack software development for a 200 person engineering team building high availability systems.
+- Team-leader of 8 engineers and quick-to provide code review, mentoring and architecture strategy.
+- Managed multiple cross-functional projects with teams of up to 15 people, resulting in a 35% increase in team efficiency and a decrease in project backlog of 33%.
+- Developed and implemented best practices for coding standards and development procedures, reducing code redundancy by 33%.
+
+**Senior Software & Machine Learning Engine @ Fairclaims (_January 2018 - January 2020_)**
+- Designed and developed mission critical systems for legal case settlement predictions using machine-learning models. 
+- Architected and implemented SOC-2 compliance documentation, auditing and approval for legal process procedures resulting in a compliance rating of 100% with an exception-less report.
+- Refactored a legacy monolith into smaller components resulting in a 30 percent increase in feature development speed.
+
+**Senior Software Engineer & Machine Learning Engineer (_January 2015 - December 2017_)**
+- Developed iOS, Android and web applications for 100,000 daily active user social network applications.
+- Managed a cross-fuctional team of 5 engineers and designers to deliver features and customer requests from sales teams.
+- Managed content moderation and built safety spaces for users in global systems.
+- Decreased time-to-market of new features by 43% and lowered deployment time from 6 weeks to 8 hours.
+
+## Sample Full Stack ML Pipeline Project
 ### Predicting Employee Use of Mental Health Services
-[Source Code](https://www.mdpi.com/1424-8220/22/8/3048)
+[Source Code](https://github.com/tylerhoran/tech_emp_mental_health)
 
 This project focuses on analyzing a dataset from an online survey on mental health conducted in 2019 by Open Sourcing Mental Illness (OSMI). The objective is to explore the state of mental health in the tech industry and develop a machine learning model to predict mental health treatment seeking behavior among tech employees.
 
 The company stakeholder was interested in knowing if employees would use mental health services if offered. By using an existing dataset that surveyed the use of mental health services by technology employees, a model was developed that allowed a company to create a similar survey to understand the percentage of employees that woudl belikely to use mental health services if that benefit was offered to their employees. SVM, FastAPI, PyTest, GithubActions.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- 2022 “Meeting Up Together: The Embeddedness of Social Capital in The United States.” Eastern
+Sociological Society. Boston, MA.
+- 2022 “Meeting Up Together: The Embeddedness of Social Capital in The United Kingdom.” British
+Sociological Association Annual Meeting, London, UK.
+- 2012 “Effects of Work-Leisure Hybridization in the EU as a result of Increased ICT Adoption”
+Eurolab–GESIS: Leibniz Institut für Sozialwissenschaftens, Köln, DE.
+- 2011 “EU Media Consumption & Economic Valuation: Partisanship and Influence Across Member States”
+Eurolab–GESIS: Leibniz Institut für Sozialwissenschaftens, Köln, DE.
+- 2011 “Social Exchange of Cultural Capital: A Study of Knowledge Power on Twitter.” The Difference that
+Makes a Difference. The Open University. Milton Keynes, UK.
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+## Recent Publications
+1. 2023 Horan, T. “Multifaceted disparities associated with translator earnings: A quantitative study of Upwork profiles” SocArXiv, doi:10.31235/osf.io/cg6fn.
+2. 2023 Horan, T. “Multidimensional Variation of Ethical Constructs in VKontakte’s Social Network Topologies” SocArXiv, doi:10.31235/osf.io/fzsqx.
+3. 2023 Horan, T., & Tu, H. “Digital Literacy, Ability and Vulnerability: Education and Income Variations in the Platform Economy” SocArXiv, doi:10.31235/osf.io/m98kz.
+4. 2023 Horan, T. “The Effects of Urbanization and Social Media Use on Individuals’ Perceived Social Isolation” SocArXiv, doi:10.31235/osf.io/fb3tq.
+5. 2023 Horan, T. “Paying to pin: How users interact with and respond to cost on a social media platform” SocArXiv, doi:10.31235/osf.io/pg67z.
+6. 2023 T. Horan. “Online Ranking System Effects on Perceived Fairness: Gender, Income and Education.” Journal of Social Media in Society, 12 (2), doi:10.31235/osf.io/2u3y5 
+7. 2021 Horan, T. “Commercial Limits to Personality: Instagram Influencers and Commoditized Content Receptivity” Societies, 11 (3), 77. doi:10.3390/soc11030077
